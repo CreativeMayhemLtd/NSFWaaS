@@ -1,4 +1,4 @@
-#NSFW as a Service: The Firewall for Your Eyeballs
+# NSFW as a Service: The Firewall for Your Eyeballs
 
 A coin-operated private-label AI API pipeline for systems that cannot afford ambiguity. Built to ensure users are not sending prohibited content to upstream commercial providers or downstream to consumers or the public, this service provides high-velocity content classification for the discerning operator. It is designed for platforms that demand consistent results, total operational control, and clean integration into existing pipelines. No public endpoints, no shared models, and no drama—just a bulletproof gatekeeper that stops bad data before it contaminates your environment. 
 
