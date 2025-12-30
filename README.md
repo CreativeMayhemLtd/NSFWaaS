@@ -17,6 +17,6 @@ Built on the [Framework](https://github.com/CreativeMayhemLtd/Framework) platfor
 
 ### [Memescreamer_Hotdog_NotHotdog](https://github.com/CreativeMayhemLtd/memescreamer_Hotdog_NotHotdog)
 
-**The Engine.** The open-source core of our N/SFW as a Service in 'host it yourself' and untrained format. A CLIP-based image and video filter that flags NSFW content and runs locally. Use either a rules-based policy or a user-trained classifier to give yourself total sovereignty over your ingest and generative media workflows. It supports batch processing, GPU acceleration, and video frame sampling, providing a high-velocity safety layer without relying on external commercial services. Please read license agreement prior to commerical use.
+**The Engine.** The open-source core of our N/SFW as a Service in python,'host it yourself', and untrained. A CLIP-based image and video filter that flags NSFW content and runs locally. Use either a rules-based policy or a user-trained classifier to give yourself total sovereignty over your ingest and generative media workflows. It supports batch processing, GPU acceleration, and video frame sampling, providing a high-velocity safety layer without relying on external commercial services. Please read license agreement prior to commerical use.
 
 Used in Memescreamer and the [Doomscroll.fm](https://doomscroll.fm) for both ingest and output, and [Sortalizer.com](https://sortalizer.com) image ingest analysis.
